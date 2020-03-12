@@ -1,0 +1,45 @@
+
+        #all{
+        width:800px;
+        height:600px;
+        margin-left:2cm;
+        margin-right:2cm;
+        border:1px solid black;
+        }
+        #head{
+        background-color: lightblue;
+        border:3px double black solid;
+        text-align: center;
+        width:800px;
+        padding-top:1em; 
+    }
+    h2
+{
+    text-decoration: underline;
+    }
+    h3{
+        text-decoration: bold;
+    }
+    td
+{
+    padding: 2px;
+    border: 1px solid black;
+
+    }
+             h1{
+            font-family:"Comic Sans MS";
+            background-color: slategrey;
+            width: 60%;
+            border:black;
+            margin: auto;
+            text-align: center;
+            border-radius: .5em;
+            font-size: 3em;
+          }
+            body{
+                background-color:aqua;
+            }     
+            .container{
+                margin-left: 50px;
+                margin-right: 50px;
+            }
